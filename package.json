@@ -13,6 +13,7 @@
     "@expo/webpack-config": "^19.0.0",
     "dom-to-image": "^2.6.0",
     "expo": "~49.0.7",
+    "expo-dev-client": "~2.4.11",
     "expo-image-picker": "~14.3.2",
     "expo-media-library": "^15.6.0",
     "expo-splash-screen": "~0.20.5",
